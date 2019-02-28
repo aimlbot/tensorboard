@@ -6,8 +6,7 @@ about: Use this template for reporting a bug or a performance issue.
 
 tag:bug_template</em>
 
-
-https://stackoverflow.com/questions/tagged/tensorboard
+**Please provide the following information**
 
 **System information**
 - Tensorboard version(from pip package, also printed out when running `tensorboard`) :
@@ -19,9 +18,9 @@ https://stackoverflow.com/questions/tagged/tensorboard
   - Screenshot if it's a visual issue :
 
 
-**Describe the current behavior**
+**Describe the current behavior** :
 
-**Describe the expected behavior**
+**Describe the expected behavior** :
 
 **Code to reproduce the issue**
 Please describe the bug as clearly as possible, and if possible provide a minimal example (code, data, and/or command line) to reproduce the issue.
