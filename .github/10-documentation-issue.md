@@ -6,12 +6,12 @@ about: Use this template for documentation related issues
 
 <em>tag:doc_template</em>
 
+**Please provide the following information**
 
 **System information**
 - TensorFlow version :
 - Tensorboard version :
 - Doc Link :
-
 
 **Describe the documentation issue**
 
